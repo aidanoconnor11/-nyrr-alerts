@@ -18,9 +18,9 @@ jobs:
   check:
     runs-on: ubuntu-latest
     env:
-      # Set NYRR_EVENT_URLS as a repository variable to pin pages you care about.
+      # A repository variable can replace this with a comma-separated list.
       # Discovery remains enabled as a best-effort way to find new event pages.
-      NYRR_EVENT_URLS: ${{ vars.NYRR_EVENT_URLS }}
+      NYRR_EVENT_URLS: ${{ vars.NYRR_EVENT_URLS || 'https://events.nyrr.org/nyrr-midnight-run-volunteers' }}
       NYRR_STATE_FILE: state.json
       SMTP_HOST: smtp.gmail.com
       SMTP_PORT: "465"
