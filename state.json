@@ -13,6 +13,69 @@
       "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=52109b1f22b646e40780&option=2a7397f4dbc6d8260b20": {
+      "event_name": "Abbott Dash to the Finish Line 5K - Volunteers",
+      "event_url": "https://events.nyrr.org/abbott-dash-to-the-finish-line-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=52109b1f22b646e40780&option=2a7397f4dbc6d8260b20",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=6817d51924b1bf4d8862&option=7acd63b4b7b32a73a3d5": {
+      "event_name": "New Balance Bronx 10M - Volunteers",
+      "event_url": "https://events.nyrr.org/new-balance-bronx-10m-volunteers",
+      "register_url": "https://register.nyrr.org/?event=6817d51924b1bf4d8862&option=7acd63b4b7b32a73a3d5",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383": {
+      "event_name": "Race to Deliver 4M to Benefit God's Love We Deliver - Volunteers",
+      "event_url": "https://events.nyrr.org/race-to-deliver-4m-to-benefit-god-s-love-we-deliver-volunteers",
+      "register_url": "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=83d453a5d826700b9e48&option=5b8f008c6592ca18ae4b": {
+      "event_name": "NYRR Frosty 5K - Volunteers",
+      "event_url": "https://events.nyrr.org/nyrr-frosty-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=83d453a5d826700b9e48&option=5b8f008c6592ca18ae4b",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=65a6c4c50a29ef058e11": {
+      "event_name": "TCS New York City Marathon Training Series 18M - Volunteers",
+      "event_url": "https://events.nyrr.org/tcs-new-york-city-training-series-18m-volunteers",
+      "register_url": "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=65a6c4c50a29ef058e11",
+      "role_name": "Volunteer Leaders and Leaders in Training",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=8b85d556b6671b7a585c": {
+      "event_name": "TCS New York City Marathon Training Series 18M - Volunteers",
+      "event_url": "https://events.nyrr.org/tcs-new-york-city-training-series-18m-volunteers",
+      "register_url": "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=8b85d556b6671b7a585c",
+      "role_name": "Medical Volunteers (Must be licensed in NYS)",
+      "status": "MED"
+    },
+    "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4": {
+      "event_name": "NYRR Ted Corbitt 15K - Volunteers",
+      "event_url": "https://events.nyrr.org/nyrr-ted-corbitt-15k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=b1888495a0688ca392fb&option=78652e54cc0a30bab21e": {
+      "event_name": "NYRR Jersey City 5K - Volunteers",
+      "event_url": "https://events.nyrr.org/nyrr-jersey-city-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=b1888495a0688ca392fb&option=78652e54cc0a30bab21e",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=d99a70080fafd3e61926&option=a5835699fc2a11e99849": {
+      "event_name": "TCS New York City Marathon Training Series 12M - Volunteers",
+      "event_url": "https://events.nyrr.org/tcs-new-york-city-marathon-training-series-12m-volunteers",
+      "register_url": "https://register.nyrr.org/?event=d99a70080fafd3e61926&option=a5835699fc2a11e99849",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
     }
   }
 }
