@@ -1,0 +1,18 @@
+{
+  "openings": {
+    "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=14afee610b0011e19dec": {
+      "event_name": "NYRR Midnight Run - Volunteers",
+      "event_url": "https://events.nyrr.org/nyrr-midnight-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=14afee610b0011e19dec",
+      "role_name": "Medical Volunteers (must be licensed in NYS)",
+      "status": "MED"
+    },
+    "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382": {
+      "event_name": "NYRR Midnight Run - Volunteers",
+      "event_url": "https://events.nyrr.org/nyrr-midnight-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    }
+  }
+}
