@@ -21,7 +21,7 @@ Before enabling it, add one Actions secret:
 2. In this repository, open **Settings → Secrets and variables → Actions → New repository secret**.
 3. Name it `GMAIL_APP_PASSWORD` and paste the app password. Do not use your regular Gmail password.
 
-The workflow is already set to send from `aidanoconnor274@gmail.com` to the same address and watches the Midnight Run page by default. To replace that with one or more direct event pages, add a repository variable named `NYRR_EVENT_URLS` containing comma-separated URLs, for example:
+The workflow is already set to send from `aidanoconnor274@gmail.com` to the same address. Its monitored direct event pages live in the workflow file, which keeps them available even when NYRR's directory is behind a waiting room. To change the list later, edit `NYRR_EVENT_URLS` in that workflow.
 
 ```text
 https://events.nyrr.org/nyrr-midnight-run-volunteers

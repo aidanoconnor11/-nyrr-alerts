@@ -18,9 +18,31 @@ jobs:
   check:
     runs-on: ubuntu-latest
     env:
-      # A repository variable can replace this with a comma-separated list.
-      # Discovery remains enabled as a best-effort way to find new event pages.
-      NYRR_EVENT_URLS: ${{ vars.NYRR_EVENT_URLS || 'https://events.nyrr.org/nyrr-midnight-run-volunteers' }}
+      # Direct pages stay monitorable when NYRR's directory uses a waiting room.
+      NYRR_EVENT_URLS: >-
+        https://events.nyrr.org/nyrr-team-champions-5m-volunteers,
+        https://events.nyrr.org/nyrr-start-line-series-manhattan-volunteers,
+        https://events.nyrr.org/nyrr-summer-speed-series-1-volunteers,
+        https://events.nyrr.org/percy-sutton-harlem-5k-volunteers,
+        https://events.nyrr.org/nyrr-summer-speed-series-2-volunteers,
+        https://events.nyrr.org/tcs-new-york-city-marathon-training-series-12m-volunteers,
+        https://events.nyrr.org/nyrr-summer-speed-series-3-volunteers,
+        https://events.nyrr.org/nyrr-start-line-series-bronx-volunteers,
+        https://events.nyrr.org/grete-s-great-gallop-10k-volunteers,
+        https://events.nyrr.org/nyrr-summer-speed-series-4-volunteers,
+        https://events.nyrr.org/nyrr-summer-speed-series-5-volunteers,
+        https://events.nyrr.org/new-balance-bronx-10m-volunteers,
+        https://events.nyrr.org/tcs-new-york-city-training-series-18m-volunteers,
+        https://events.nyrr.org/vcp-cross-country-1-volunteers,
+        https://events.nyrr.org/vcp-cross-country-2-volunteers,
+        https://events.nyrr.org/nyrr-jersey-city-5k-volunteers,
+        https://events.nyrr.org/rising-nyrr-fall-jamboree-volunteers,
+        https://events.nyrr.org/abbott-dash-to-the-finish-line-5k-volunteers,
+        https://events.nyrr.org/vcp-cross-country-3-volunteers,
+        https://events.nyrr.org/race-to-deliver-4m-to-benefit-god-s-love-we-deliver-volunteers,
+        https://events.nyrr.org/nyrr-ted-corbitt-15k-volunteers,
+        https://events.nyrr.org/nyrr-frosty-5k-volunteers,
+        https://events.nyrr.org/nyrr-midnight-run-volunteers
       NYRR_STATE_FILE: state.json
       SMTP_HOST: smtp.gmail.com
       SMTP_PORT: "465"
