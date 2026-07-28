@@ -42,13 +42,6 @@
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
-    "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=65a6c4c50a29ef058e11": {
-      "event_name": "TCS New York City Marathon Training Series 18M - Volunteers",
-      "event_url": "https://events.nyrr.org/tcs-new-york-city-training-series-18m-volunteers",
-      "register_url": "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=65a6c4c50a29ef058e11",
-      "role_name": "Volunteer Leaders and Leaders in Training",
-      "status": "AVL"
-    },
     "https://register.nyrr.org/?event=a79fcc51fc0611bc0456&option=8b85d556b6671b7a585c": {
       "event_name": "TCS New York City Marathon Training Series 18M - Volunteers",
       "event_url": "https://events.nyrr.org/tcs-new-york-city-training-series-18m-volunteers",
@@ -70,11 +63,18 @@
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
-    "https://register.nyrr.org/?event=b35c2ccf014988e911c2&option=7fdbd63ba2d6e15e07c2": {
+    "https://register.nyrr.org/?event=b35c2ccf014988e911c2&option=c64aefaddd9a091057a0": {
       "event_name": "Percy Sutton Harlem 5K - Volunteers",
       "event_url": "https://events.nyrr.org/percy-sutton-harlem-5k-volunteers",
-      "register_url": "https://register.nyrr.org/?event=b35c2ccf014988e911c2&option=7fdbd63ba2d6e15e07c2",
-      "role_name": "Pre-Race Water & Cup Zero Support",
+      "register_url": "https://register.nyrr.org/?event=b35c2ccf014988e911c2&option=c64aefaddd9a091057a0",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=b35c2ccf014988e911c2&option=f8414fa3b5b95c2ce860": {
+      "event_name": "Percy Sutton Harlem 5K - Volunteers",
+      "event_url": "https://events.nyrr.org/percy-sutton-harlem-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=b35c2ccf014988e911c2&option=f8414fa3b5b95c2ce860",
+      "role_name": "Youth Event Assistant",
       "status": "AVL"
     },
     "https://register.nyrr.org/?event=d99a70080fafd3e61926&option=a5835699fc2a11e99849": {
