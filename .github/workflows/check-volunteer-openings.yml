@@ -50,7 +50,7 @@ jobs:
       SMTP_USERNAME: aidanoconnor274@gmail.com
       SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       EMAIL_FROM: aidanoconnor274@gmail.com
-      EMAIL_TO: aidanoconnor274@gmail.com
+      EMAIL_TO: aidanoconnor274@gmail.com,Harsh104@gmail.com
 
     steps:
       - uses: actions/checkout@v4
