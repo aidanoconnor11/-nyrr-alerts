@@ -12,7 +12,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 
-DEFAULT_DIRECTORY_URL = "https://www.nyrr.org/getinvolved/volunteeropportunities"
+DEFAULT_DIRECTORY_URL = "https://www.nyrr.org/get-involved-volunteer-opportunities"
 
 
 def _csv(name: str, default: str = "") -> tuple[str, ...]:
