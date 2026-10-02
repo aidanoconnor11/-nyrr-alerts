@@ -2,38 +2,234 @@
   "openings": {
     "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382": {
       "event_name": "NYRR Midnight Run - Volunteers",
-      "event_url": "https://events.nyrr.org/nyrr-midnight-run-volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
       "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
     "https://register.nyrr.org/?event=52109b1f22b646e40780&option=2a7397f4dbc6d8260b20": {
       "event_name": "Abbott Dash to the Finish Line 5K - Volunteers",
-      "event_url": "https://events.nyrr.org/abbott-dash-to-the-finish-line-5k-volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers",
       "register_url": "https://register.nyrr.org/?event=52109b1f22b646e40780&option=2a7397f4dbc6d8260b20",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
     "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383": {
       "event_name": "Race to Deliver 4M to Benefit God's Love We Deliver - Volunteers",
-      "event_url": "https://events.nyrr.org/race-to-deliver-4m-to-benefit-god-s-love-we-deliver-volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/race-to-deliver-4m-to-benefit-gods-love-we-deliver-volunteers",
       "register_url": "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
     "https://register.nyrr.org/?event=83d453a5d826700b9e48&option=5b8f008c6592ca18ae4b": {
       "event_name": "NYRR Frosty 5K - Volunteers",
-      "event_url": "https://events.nyrr.org/nyrr-frosty-5k-volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-frosty-5k-volunteers",
       "register_url": "https://register.nyrr.org/?event=83d453a5d826700b9e48&option=5b8f008c6592ca18ae4b",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=346d25c0ab5dbcb52c01": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=346d25c0ab5dbcb52c01",
+      "role_name": "Bus Ambassador - Charity Team",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=8badcdd0dafc7711240c": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=8badcdd0dafc7711240c",
+      "role_name": "Bus Ambassador - Midtown Manhattan Buses",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=9b36a3105a0f20f3dd36": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=9b36a3105a0f20f3dd36",
+      "role_name": "Ferry Terminal Marshal - Whitehall Terminal",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=c1e86500163ab0c66f00": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=c1e86500163ab0c66f00",
+      "role_name": "Ferry Rider Ambassador - Whitehall Terminal",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=e78a06457502a8bb46ed": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=e78a06457502a8bb46ed",
+      "role_name": "Ferry Terminal Marshal - Pier 79",
+      "status": "AVL"
+    },
     "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4": {
       "event_name": "NYRR Ted Corbitt 15K - Volunteers",
-      "event_url": "https://events.nyrr.org/nyrr-ted-corbitt-15k-volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
       "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=240843e15e627823192f": {
+      "event_name": "TCS New York City Marathon - Medical Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=240843e15e627823192f",
+      "role_name": "Occupational Therapist & Occupational Therapy Assistant",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=62764607e6c44082045f": {
+      "event_name": "TCS New York City Marathon - Medical Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=62764607e6c44082045f",
+      "role_name": "EM & Varied Physicians - Attending & Fellow (EM, Trauma, Cardio, others)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=a80d4c89668c0b4899d4": {
+      "event_name": "TCS New York City Marathon - Medical Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=a80d4c89668c0b4899d4",
+      "role_name": "Athletic Trainer",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=aa962f39e0a674e7b9d1": {
+      "event_name": "TCS New York City Marathon - Medical Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=aa962f39e0a674e7b9d1",
+      "role_name": "Chiropractor",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=b823808e3f13cac8e933": {
+      "event_name": "TCS New York City Marathon - Medical Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=b823808e3f13cac8e933",
+      "role_name": "Musculoskeletal Physicians - Attending & Fellow (Podiatrist, Ortho, Sports Med)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=1a1a960d6784271d40a8": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=1a1a960d6784271d40a8",
+      "role_name": "Morningside Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=20ed8d793eb1e2a80ebe": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=20ed8d793eb1e2a80ebe",
+      "role_name": "Lincoln Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=220bec9657ccee1da5be": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=220bec9657ccee1da5be",
+      "role_name": "Soundview Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=2391b66d6bc6ee923cb3": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=2391b66d6bc6ee923cb3",
+      "role_name": "Brooklyn Bridge Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=37ce12471d6a0d270b5f": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=37ce12471d6a0d270b5f",
+      "role_name": "Inwood Hill Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=4600021afcef1cf19831": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=4600021afcef1cf19831",
+      "role_name": "Marine Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=84773ae3d35714df60a0": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=84773ae3d35714df60a0",
+      "role_name": "Crocheron Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=8de7e7da3ca30bfd7d0c": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=8de7e7da3ca30bfd7d0c",
+      "role_name": "Cunningham Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=a08a684cc0e6ca426f9c": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=a08a684cc0e6ca426f9c",
+      "role_name": "Baisley Pond Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=a97653f63212547c3d42": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=a97653f63212547c3d42",
+      "role_name": "Astoria Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=b24f7d593c4fb3ab3190": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=b24f7d593c4fb3ab3190",
+      "role_name": "Canarsie Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=b5bd70e8ee8951121b2d": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=b5bd70e8ee8951121b2d",
+      "role_name": "Shore Road Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=bb7329b604665ee65202": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=bb7329b604665ee65202",
+      "role_name": "St. Mary\u00e2\u0080\u0099s Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=cbffd2c2d1b529d17770": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=cbffd2c2d1b529d17770",
+      "role_name": "Conference House Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=d9b118d6a46369404907": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=d9b118d6a46369404907",
+      "role_name": "Highland Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4": {
+      "event_name": "Open Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4",
+      "role_name": "Flushing Meadows Corona Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=08bf0afa853367703116": {
+      "event_name": "NYRR Staten Island Half - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-staten-island-half-volunteers",
+      "register_url": "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=08bf0afa853367703116",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=67916a6048bcf50d81f5": {
+      "event_name": "NYRR Staten Island Half - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-staten-island-half-volunteers",
+      "register_url": "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=67916a6048bcf50d81f5",
+      "role_name": "Medical Volunteers (Must be licensed in NYS)",
+      "status": "MED"
     }
   }
 }
