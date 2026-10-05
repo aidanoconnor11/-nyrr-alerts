@@ -1,5 +1,12 @@
 {
   "openings": {
+    "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=78b81bb46f463988123a": {
+      "event_name": "NYRR Midnight Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=78b81bb46f463988123a",
+      "role_name": "Course Marshal South",
+      "status": "MED"
+    },
     "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382": {
       "event_name": "NYRR Midnight Run - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
@@ -13,13 +20,6 @@
       "register_url": "https://register.nyrr.org/?event=52109b1f22b646e40780&option=2a7397f4dbc6d8260b20",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=604879cc653a0d36f863&option=dc6ce0e78611f46d0b5b": {
-      "event_name": "2026 TCS New York City Marathon Expo - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers",
-      "register_url": "https://register.nyrr.org/?event=604879cc653a0d36f863&option=dc6ce0e78611f46d0b5b",
-      "role_name": "Ambassador",
-      "status": "MED"
     },
     "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383": {
       "event_name": "Race to Deliver 4M to Benefit God's Love We Deliver - Volunteers",
