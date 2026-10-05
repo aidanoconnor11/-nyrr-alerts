@@ -1,12 +1,5 @@
 {
   "openings": {
-    "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=78b81bb46f463988123a": {
-      "event_name": "NYRR Midnight Run - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
-      "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=78b81bb46f463988123a",
-      "role_name": "Course Marshal South",
-      "status": "MED"
-    },
     "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382": {
       "event_name": "NYRR Midnight Run - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
@@ -75,41 +68,6 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-central-park-volunteers",
       "register_url": "https://register.nyrr.org/?event=b7a7e06fece229e913f1&option=5980bc051f0f1c011caf",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=240843e15e627823192f": {
-      "event_name": "TCS New York City Marathon - Medical Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
-      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=240843e15e627823192f",
-      "role_name": "Occupational Therapist & Occupational Therapy Assistant",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=62764607e6c44082045f": {
-      "event_name": "TCS New York City Marathon - Medical Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
-      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=62764607e6c44082045f",
-      "role_name": "EM & Varied Physicians - Attending & Fellow (EM, Trauma, Cardio, others)",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=a80d4c89668c0b4899d4": {
-      "event_name": "TCS New York City Marathon - Medical Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
-      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=a80d4c89668c0b4899d4",
-      "role_name": "Athletic Trainer",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=aa962f39e0a674e7b9d1": {
-      "event_name": "TCS New York City Marathon - Medical Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
-      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=aa962f39e0a674e7b9d1",
-      "role_name": "Chiropractor",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=b823808e3f13cac8e933": {
-      "event_name": "TCS New York City Marathon - Medical Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers",
-      "register_url": "https://register.nyrr.org/?event=e6b7ae90a07171170c8b&option=b823808e3f13cac8e933",
-      "role_name": "Musculoskeletal Physicians - Attending & Fellow (Podiatrist, Ortho, Sports Med)",
       "status": "AVL"
     },
     "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=1a1a960d6784271d40a8": {
