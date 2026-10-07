@@ -21,6 +21,34 @@
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=8badcdd0dafc7711240c": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=8badcdd0dafc7711240c",
+      "role_name": "Bus Ambassador - Midtown Manhattan Buses",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=9b36a3105a0f20f3dd36": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=9b36a3105a0f20f3dd36",
+      "role_name": "Ferry Terminal Marshal - Whitehall Terminal",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=c1e86500163ab0c66f00": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=c1e86500163ab0c66f00",
+      "role_name": "Ferry Rider Ambassador - Whitehall Terminal",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=e78a06457502a8bb46ed": {
+      "event_name": "TCS New York City Marathon - Transportation Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=e78a06457502a8bb46ed",
+      "role_name": "Ferry Terminal Marshal - Pier 79",
+      "status": "AVL"
+    },
     "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4": {
       "event_name": "NYRR Ted Corbitt 15K - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
@@ -145,13 +173,6 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
       "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4",
       "role_name": "Flushing Meadows Corona Park",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=08bf0afa853367703116": {
-      "event_name": "NYRR Staten Island Half - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-staten-island-half-volunteers",
-      "register_url": "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=08bf0afa853367703116",
-      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     }
   }
