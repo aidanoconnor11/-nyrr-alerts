@@ -174,6 +174,13 @@
       "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4",
       "role_name": "Flushing Meadows Corona Park",
       "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=52624101481e6fe3e3a6": {
+      "event_name": "NYRR Staten Island Half - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-staten-island-half-volunteers",
+      "register_url": "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=52624101481e6fe3e3a6",
+      "role_name": "Fluid Station",
+      "status": "MED"
     }
   }
 }
