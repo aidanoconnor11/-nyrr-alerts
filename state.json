@@ -40,7 +40,7 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers",
       "register_url": "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=c1e86500163ab0c66f00",
       "role_name": "Ferry Rider Ambassador - Whitehall Terminal",
-      "status": "AVL"
+      "status": "MED"
     },
     "https://register.nyrr.org/?event=91ad9a3768ca0091c40b&option=e78a06457502a8bb46ed": {
       "event_name": "TCS New York City Marathon - Transportation Volunteers",
@@ -174,13 +174,6 @@
       "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4",
       "role_name": "Flushing Meadows Corona Park",
       "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=91c5b36b30a78b6174ef": {
-      "event_name": "NYRR Staten Island Half - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-staten-island-half-volunteers",
-      "register_url": "https://register.nyrr.org/?event=f99dbc22c33602db0855&option=91c5b36b30a78b6174ef",
-      "role_name": "Youth Event Assistant",
-      "status": "MED"
     }
   }
 }
