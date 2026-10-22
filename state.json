@@ -217,6 +217,13 @@
       "role_name": "Medical Volunteers (Must be licensed in New York State)",
       "status": "AVL"
     },
+    "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=c9d19c349070df5d42b7": {
+      "event_name": "NYRR Joe Kleinerman 10K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-joe-kleinerman-10k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=c9d19c349070df5d42b7",
+      "role_name": "Post-Race Amenities",
+      "status": "MED"
+    },
     "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=d194e26887e13859be5d": {
       "event_name": "NYRR Joe Kleinerman 10K - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-joe-kleinerman-10k-volunteers",
