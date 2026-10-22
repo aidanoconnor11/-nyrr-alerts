@@ -7,10 +7,66 @@
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
+    "https://register.nyrr.org/?event=562e671765ec18461e77&option=578a9cf19ee1feb8fcc4": {
+      "event_name": "NYRR Manhattan 10K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-manhattan-10k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=562e671765ec18461e77&option=578a9cf19ee1feb8fcc4",
+      "role_name": "Volunteer Leaders and Leaders in Training (No +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=562e671765ec18461e77&option=900fcd28e62fb2ff2065": {
+      "event_name": "NYRR Manhattan 10K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-manhattan-10k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=562e671765ec18461e77&option=900fcd28e62fb2ff2065",
+      "role_name": "Medical Volunteers (Must be licensed in New York State)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=5e6deba2e39a688b00c5&option=77ed66270c1318f0c21f": {
+      "event_name": "NYRR Al Gordon 5K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-al-gordon-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=5e6deba2e39a688b00c5&option=77ed66270c1318f0c21f",
+      "role_name": "Medical Volunteers (Must be licensed in New York State)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=5e6deba2e39a688b00c5&option=df6164a2eeaa354342ba": {
+      "event_name": "NYRR Al Gordon 5K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-al-gordon-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=5e6deba2e39a688b00c5&option=df6164a2eeaa354342ba",
+      "role_name": "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=615610f43dbaf1a247d0&option=042a3311676bfb5d4393": {
+      "event_name": "NYRR Washington Heights Salsa, Blues, and Shamrocks 5K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-washington-heights-salsa-blues-and-shamrocks-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=615610f43dbaf1a247d0&option=042a3311676bfb5d4393",
+      "role_name": "Medical Volunteers (Must be licensed in New York State)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=615610f43dbaf1a247d0&option=3b43775bc581e589265b": {
+      "event_name": "NYRR Washington Heights Salsa, Blues, and Shamrocks 5K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-washington-heights-salsa-blues-and-shamrocks-5k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=615610f43dbaf1a247d0&option=3b43775bc581e589265b",
+      "role_name": "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)",
+      "status": "AVL"
+    },
     "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383": {
       "event_name": "Race to Deliver 4M to Benefit God's Love We Deliver - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2026/race-to-deliver-4m-to-benefit-gods-love-we-deliver-volunteers",
       "register_url": "https://register.nyrr.org/?event=76745eea47f712e75d62&option=3d40009ff9613b090383",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=6149e632e5122f428ffc": {
+      "event_name": "NYRR Fred Lebow Half Marathon - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-fred-lebow-half-marathon-volunteers",
+      "register_url": "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=6149e632e5122f428ffc",
+      "role_name": "Medical Volunteers (Must be licensed in New York State)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=d90ab21234756302c304": {
+      "event_name": "NYRR Fred Lebow Half Marathon - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-fred-lebow-half-marathon-volunteers",
+      "register_url": "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=d90ab21234756302c304",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
@@ -33,6 +89,20 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-central-park-volunteers",
       "register_url": "https://register.nyrr.org/?event=b7a7e06fece229e913f1&option=5980bc051f0f1c011caf",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=6ad065894fc9cc5335a6": {
+      "event_name": "NYRR Gridiron 4M Presented by The FLAG Art Foundation - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-gridiron-4m-presented-by-the-flag-art-foundation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=6ad065894fc9cc5335a6",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=7642ee33e061092f8515": {
+      "event_name": "NYRR Gridiron 4M Presented by The FLAG Art Foundation - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-gridiron-4m-presented-by-the-flag-art-foundation-volunteers",
+      "register_url": "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=7642ee33e061092f8515",
+      "role_name": "Medical Volunteers (Must be licensed in New York State)",
       "status": "AVL"
     },
     "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=1a1a960d6784271d40a8": {
@@ -145,6 +215,20 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
       "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4",
       "role_name": "Flushing Meadows Corona Park",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=22cd4750ec1fd3220769": {
+      "event_name": "NYRR Joe Kleinerman 10K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-joe-kleinerman-10k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=22cd4750ec1fd3220769",
+      "role_name": "Medical Volunteers (Must be licensed in New York State)",
+      "status": "AVL"
+    },
+    "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=d194e26887e13859be5d": {
+      "event_name": "NYRR Joe Kleinerman 10K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-joe-kleinerman-10k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=d194e26887e13859be5d",
+      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     }
   }
