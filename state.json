@@ -77,13 +77,6 @@
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     },
-    "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4": {
-      "event_name": "NYRR Ted Corbitt 15K - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
-      "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4",
-      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
-      "status": "MED"
-    },
     "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=6ad065894fc9cc5335a6": {
       "event_name": "NYRR Gridiron 4M Presented by The FLAG Art Foundation - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-gridiron-4m-presented-by-the-flag-art-foundation-volunteers",
@@ -208,13 +201,6 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/open-run-volunteers",
       "register_url": "https://register.nyrr.org/?event=e91a00cb72452bdfa58b&option=f0ba4072c43b912d94b4",
       "role_name": "Flushing Meadows Corona Park",
-      "status": "AVL"
-    },
-    "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=d194e26887e13859be5d": {
-      "event_name": "NYRR Joe Kleinerman 10K - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-joe-kleinerman-10k-volunteers",
-      "register_url": "https://register.nyrr.org/?event=fd2abdf0a6651561a347&option=d194e26887e13859be5d",
-      "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
       "status": "AVL"
     }
   }
