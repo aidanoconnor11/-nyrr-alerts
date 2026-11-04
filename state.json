@@ -14,13 +14,6 @@
       "role_name": "Volunteer Leaders and Leaders in Training (No +1)",
       "status": "AVL"
     },
-    "https://register.nyrr.org/?event=562e671765ec18461e77&option=900fcd28e62fb2ff2065": {
-      "event_name": "NYRR Manhattan 10K - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-manhattan-10k-volunteers",
-      "register_url": "https://register.nyrr.org/?event=562e671765ec18461e77&option=900fcd28e62fb2ff2065",
-      "role_name": "Medical Volunteers (Must be licensed in New York State)",
-      "status": "AVL"
-    },
     "https://register.nyrr.org/?event=5e6deba2e39a688b00c5&option=77ed66270c1318f0c21f": {
       "event_name": "NYRR Al Gordon 5K - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-al-gordon-5k-volunteers",
@@ -49,13 +42,6 @@
       "role_name": "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)",
       "status": "AVL"
     },
-    "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=6149e632e5122f428ffc": {
-      "event_name": "NYRR Fred Lebow Half Marathon - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-fred-lebow-half-marathon-volunteers",
-      "register_url": "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=6149e632e5122f428ffc",
-      "role_name": "Medical Volunteers (Must be licensed in New York State)",
-      "status": "AVL"
-    },
     "https://register.nyrr.org/?event=7683180ef1fe5767c40b&option=d90ab21234756302c304": {
       "event_name": "NYRR Fred Lebow Half Marathon - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2027/nyrr-fred-lebow-half-marathon-volunteers",
@@ -75,6 +61,13 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
       "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
+      "status": "MED"
+    },
+    "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=c9def2b65f12bdfd7d72": {
+      "event_name": "NYRR Ted Corbitt 15K - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
+      "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=c9def2b65f12bdfd7d72",
+      "role_name": "Bag Check",
       "status": "MED"
     },
     "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=6ad065894fc9cc5335a6": {
