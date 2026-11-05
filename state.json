@@ -1,5 +1,12 @@
 {
   "openings": {
+    "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=612ac986849821cc164b": {
+      "event_name": "NYRR Midnight Run - Volunteers",
+      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
+      "register_url": "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=612ac986849821cc164b",
+      "role_name": "Post-Race Amenities",
+      "status": "MED"
+    },
     "https://register.nyrr.org/?event=1a3d8cfe041851d12a62&option=b7545011fd6c547dc382": {
       "event_name": "NYRR Midnight Run - Volunteers",
       "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers",
@@ -61,13 +68,6 @@
       "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
       "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=19eeb8d039fdb7311de4",
       "role_name": "Volunteer Leaders and Leaders in Training (NO +1)",
-      "status": "MED"
-    },
-    "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=c9def2b65f12bdfd7d72": {
-      "event_name": "NYRR Ted Corbitt 15K - Volunteers",
-      "event_url": "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers",
-      "register_url": "https://register.nyrr.org/?event=ac5a6d9cfd5d470bc018&option=c9def2b65f12bdfd7d72",
-      "role_name": "Bag Check",
       "status": "MED"
     },
     "https://register.nyrr.org/?event=d4235e5ded719c2e621d&option=6ad065894fc9cc5335a6": {
